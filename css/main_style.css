@@ -1,0 +1,35 @@
+body{
+    font-family: 'Titillium Web', sans-serif;
+    background-color: #232323;
+}
+
+.square{
+    width: 30%;
+    background:purple;
+    padding-bottom: 30%;
+    float: left;
+    margin: 1.6%;
+}
+
+#container{
+    margin: 0 auto;
+    max-width: 600px;
+}
+
+
+
+/* my css */
+
+#header{
+    background: darkred;
+    color: white;
+    font-weight: 200;
+}
+
+#header h1{
+    font-size: 1.6rem;    
+}
+
+#colorDisplay{
+    font-size: 3rem;
+}
